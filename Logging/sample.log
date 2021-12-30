@@ -1,0 +1,11 @@
+2021-12-22 12:11:41,654:__main__:ERROR:Tried to Divide by zero
+2021-12-22 12:12:17,920:__main__:ERROR:Tried to Divide by zero
+Traceback (most recent call last):
+  File "c:\Users\P.Jay\Desktop\Git Hub Repositories\Python Lessoons\Logging\continuation.py", line 27, in divide
+    result = x/y
+ZeroDivisionError: division by zero
+2021-12-22 12:15:50,462:__main__:ERROR:Tried to Divide by zero
+Traceback (most recent call last):
+  File "c:\Users\P.Jay\Desktop\Git Hub Repositories\Python Lessoons\Logging\continuation.py", line 29, in divide
+    result = x/y
+ZeroDivisionError: division by zero

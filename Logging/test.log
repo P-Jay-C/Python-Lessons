@@ -1,0 +1,8 @@
+DEBUG:root:Add: 10 + 5 = 15
+DEBUG:root:Sub: 10 - 5 = 5
+DEBUG:root:Mul: 10 * 5 = 50
+WARNING:root:Div: 10 / 5 = 2.0
+2021-12-22 04:09:28,218:DEBUG:Add: 10 + 5 = 15
+2021-12-22 04:09:28,224:DEBUG:Sub: 10 - 5 = 5
+2021-12-22 04:09:28,225:DEBUG:Mul: 10 * 5 = 50
+2021-12-22 04:09:28,227:WARNING:Div: 10 / 5 = 2.0
